@@ -1,2 +1,2 @@
 # Playlist
-This is a playlist application that supports adding, deleting, and sorting podcast episodes (alphabetically)
+This is a playlist application that supports adding, deleting, and sorting podcast episodes (alphabetically). Class Episode represents an individual podcast episode. Each episode has a title, length (duration), a link to the next episode, and a link to the previous episode. Class Playlist represents a doubly linked list of Episode objects. Class ITunes represents the application that will test the different features supported in the Playlist.
